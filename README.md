@@ -25,7 +25,7 @@ Me gusta trabajar con tecnologías frontend y backend, y siempre estoy aprendien
 ## 📂 Proyectos destacados
 - 🏨 [Haku Huasi Hotel](https://protecto-hotel-frontend.netlify.app/) [(frontend)](https://github.com/fatiperea/proyectoHotel-FrontEnd.git) [(backend)](https://github.com/fatiperea/proyectoHotel-BackEnd.git)
 
-  Sistema de gestión de un hotel ficticio
+  Sistema de gestión de un hotel ficticio, desarrollado en equipo para el proyecto final de RollingCode School.
   
 <!--
 - 🌐 [Portfolio personal](https://github.com/tuusuario/portfolio)  
