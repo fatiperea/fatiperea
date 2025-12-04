@@ -53,4 +53,4 @@ Me gusta trabajar con tecnologías frontend y backend, y siempre estoy aprendien
 
 ---
 
-✨ *Siempre abierto a colaborar en proyectos interesantes y aprender nuevas tecnologías.*
+✨ *Siempre dispuesta a colaborar en proyectos interesantes y aprender nuevas tecnologías.*
